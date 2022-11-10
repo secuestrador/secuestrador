@@ -1,16 +1,28 @@
-### Hi there 👋
+<h1 align="center">hopeless.</h1>
 
-<!--
-**secuestrador/secuestrador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,vscode,atom,cloudflare,git,github,discord,linux&perline=11" />
+  </a>
+</p>
+  
+## 👤 Contact
+<p align="center">
+    <a href="https://t.me/abril" target="_blank">
+     @Abril (Telegram)  
+    </a>
+</p>
 
-Here are some ideas to get you started:
+```
+💬 Languages: 
+JavaScript               28 mins             ████████████████████░░░░░   75.01% 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.96% 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Operating System: 
+Windows                       1 hr           █████████████████████░░░░   80.0%
+Kali Linux                    25 mins        ████░░░░░░░░░░░░░░░░░░░░░   20.0%
+
+```
+</details>
